@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Taylor_series
 
 ## Result
 
-| Function | terms needed | result |
+| **function** | **terms needed** | **result** |
 | :--- | :--- | :---  |
 | exponential | 17 | 7.389056099 |
 | sine | 9 | 0.909297427 |
